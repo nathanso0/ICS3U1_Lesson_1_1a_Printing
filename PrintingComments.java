@@ -15,12 +15,15 @@ class PrintingComments extends ConsoleProgram {
    
     // multiline comment
     // Draw a box
-System.out.println("     |      *");
-System.out.println("   * |     **");
-System.out.println("  /|/     ***");
-System.out.println("  [ [    ****");
-System.out.println("  ***    ****");
-System.out.println("*************");
+System.out.println("              * ");
+System.out.println("            .-|[");
+System.out.println("           / ] ]");
+System.out.println("     |    / ****");
+System.out.println("   * |     *****");
+System.out.println("  /|/     ******");
+System.out.println("  [ [    *******");
+System.out.println("  ***   ********");
+System.out.println("****************");
 System.out.println("Don't Try it!");
 // Draw another box
 /*
